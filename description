@@ -1,0 +1,17 @@
+//Setup env 
+//install npm i uuid
+//require uuid
+//create redirect 
+//create new url
+//Go to room.hbs 
+//Console room id under script
+//ADD the view our own video for this create Public folder 
+//add script.js file on that folder
+//set public folder in app.js
+//Set video stream in script.js
+//add video grid id in room.ejs
+//set srcipt tag in body below div 
+//document.getElementbyId in script.js 
+//append videogrid in addVideoStream function 
+//add css 
+//style video and video grid 
